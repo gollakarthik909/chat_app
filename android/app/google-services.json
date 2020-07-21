@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "15044854827",
+    "firebase_url": "https://flash-chat-9589d.firebaseio.com",
+    "project_id": "flash-chat-9589d",
+    "storage_bucket": "flash-chat-9589d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15044854827:android:c9851da95c3a4ea020966e",
+        "android_client_info": {
+          "package_name": "co.gollakarthik.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15044854827-geb1945m5e0s90chdsfp7lgnopa7eah3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4TJtQKe3BzIx2s08jh4nbTfvbihZMT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15044854827-geb1945m5e0s90chdsfp7lgnopa7eah3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15044854827:android:eb27e1c5e61ed7bb20966e",
+        "android_client_info": {
+          "package_name": "com.gollakarthik.flashchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15044854827-geb1945m5e0s90chdsfp7lgnopa7eah3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4TJtQKe3BzIx2s08jh4nbTfvbihZMT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15044854827-geb1945m5e0s90chdsfp7lgnopa7eah3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
